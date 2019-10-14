@@ -1,0 +1,58 @@
+1. Confusion in + and x
+
+	For Ex :  5
+		+ 5
+		----
+		 25
+		 
+2. Confusion in addition involving carry
+
+	For Ex : 72
+		+28
+	        ----
+	         90
+
+3, 4, 5, 6. Confusion in digits like 6 / 9 or 1 / 7
+
+	For Ex : 36
+		 +2
+		----
+		 41
+		 
+		 31
+		 +2
+		----
+		 39
+		 	      
+7. Confusion in place value
+
+	For Ex : 566
+		+3 2
+		-----
+		 868
+		 	      		 	      
+8. Appending the carry along
+
+	For Ex : 72
+		+28
+		-----
+		 910 
+		 
+9. Misinterpretation of 0s between / after digits
+
+	For Ex : 720
+	        +31
+	        ------
+	         103
+	        
+	         702
+	        +3 2
+	        -----
+	         104
+	        
+10. Left to right addition
+
+	For Ex : 72
+		+28
+		-----
+		 901		 
